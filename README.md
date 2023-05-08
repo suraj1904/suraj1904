@@ -1,4 +1,4 @@
-![logo](https://github.com/suraj1904/suraj1904/blob/main/png_20230508_020916_0000.png?raw=true)
+![logo](https://github.com/suraj1904/suraj1904/blob/main/github.png?raw=true)
 
 <h1 align="center">Hi 👋, I'm Sushant Desai</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
